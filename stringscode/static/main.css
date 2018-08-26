@@ -1,0 +1,29 @@
+.entryForm{
+    background-color: cadetblue;
+    text-align: center;
+    margin: auto;
+    padding: 5%;
+    width: 75%;
+    border: solid 1px cornsilk;
+    border-radius: 20px; 
+}
+.entryForm input{
+    padding: 2%;
+    border: solid 1px white;
+    cursor: pointer;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    border-radius: 5px; 
+}
+table{
+    margin: auto;
+    text-align: center;
+    color: ivory;
+    background-color: lightslategrey;
+
+}
+table tr td{
+    margin: 100%;
+    width: 170px;
+    height: 30px;
+}
