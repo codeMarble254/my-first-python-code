@@ -1,2 +1,2 @@
 release: python main.py
-web: gunicorn app.main
+web: gunicorn main:app
